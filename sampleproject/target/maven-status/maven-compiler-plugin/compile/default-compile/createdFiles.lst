@@ -1,0 +1,10 @@
+com\example\sampleproject\repository\FriendsRepository.class
+com\example\sampleproject\SampleprojectApplication.class
+com\example\sampleproject\service\impl\UserImpl.class
+com\example\sampleproject\model\Users.class
+com\example\sampleproject\repository\UserRepository.class
+com\example\sampleproject\service\UserService.class
+com\example\sampleproject\dto\FriendRequest.class
+com\example\sampleproject\controller\UserAPI.class
+com\example\sampleproject\model\Friends.class
+com\example\sampleproject\controller\UserController.class
